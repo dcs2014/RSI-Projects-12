@@ -10,7 +10,10 @@ Folder view presents directory structure in Folders/Files windows, full navigati
 
 After starting CMD utility, it is possible to run commands.
 
-Command line working directory is synchronized with Folder/Files view.
+Command line working directory is synchronized with Folder/Files view. Command utility starts command line window (left button on toolstrip). Options are as follows
+- selecting exe or bat files - runs these files.
+- Up - navigation to the parent directoy.
+
 
 In browser mode, the navigation through internet sites is possible in tabbed enviroment. HTML page source viewer is appended, the component displays HTML source of the selected in web browser internet site. Additionaly, simple edition of the HTML page is possible by chenging the source code.
 - Save as - saves page as bitmap file.
