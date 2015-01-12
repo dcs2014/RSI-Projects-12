@@ -16,4 +16,7 @@ In browser mode, the navigation through internet sites is possible in tabbed env
 - Save as - saves page as bitmap file.
 - Source - displays source code of the HTML page.
 - Panel - navigates through right, left and both panels.
+- Add (web browser toolstrip) - adds view to the fast navigation view.
+- Next (web browser toolstrip) - navigates in fast navigation mode (view).
+- Menu - hides or displays menu.
 
