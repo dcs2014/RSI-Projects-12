@@ -12,5 +12,8 @@ After starting CMD utility, it is possible to run commands.
 
 Command line working directory is synchronized with Folder/Files view.
 
-In browser mode, the navigation through internet sites is possible in tabbed enviroment.
+In browser mode, the navigation through internet sites is possible in tabbed enviroment. HTML page source viewer is appended, the component displays HTML source of the selected in web browser internet site. Additionaly, simple edition of the HTML page is possible by chenging the source code.
+- Save as - saves page as bitmap file.
+- Source - displays source code of the HTML page.
+- Panel - navigates through right, left and both panels.
 
