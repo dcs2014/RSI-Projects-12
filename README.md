@@ -11,6 +11,7 @@ Taskbar utility provides access to folder tree navigation with direct launching 
 
 
 Folder view presents directory structure in Folders/Files windows, full navigation through directory tree is possible.
+Folder view has the histroy list that saves directories that were opened in the component.
 
 After starting CMD utility, it is possible to run commands. CMD window starts after selecting proper button on the toolstrip.
 Command line working directory is synchronized with Folder/Files view. Command utility starts command line window (left button on toolstrip). 
@@ -25,3 +26,4 @@ In browser mode, the navigation through internet sites is possible in tabbed env
 - Next (web browser toolstrip) - navigates in fast navigation mode (view).
 - Menu - hides or displays menu.
 
+Folder component displays history of navigation in the listbox view. All visited pages are remembered and saved in the list. Later, navigation through saved pages is possible.
