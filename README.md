@@ -2,6 +2,8 @@ The administration projects that are designed to extend and simplify command lin
 - command line mode,
 - web browser mode.
 
+Additionally, histrory of navigated pages and folder is maintained. 
+
 In command line mode there are two views - taskbar view and folders view. 
 
 Taskbar utility provides access to folder tree navigation with direct launching of executable files (it means exe, bat files).
