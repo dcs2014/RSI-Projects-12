@@ -4,6 +4,13 @@ The administration projects that are designed to extend and simplify command lin
 
 Additionally, histrory of navigated pages and folders is maintained. 
 
+Application GUI has the following structure
+- upper toolstrip.
+- Folder/Files paths.
+- right panel.
+- left panel.
+- application stuststrip.
+
 In command line mode there are two views - taskbar view and folders view. 
 
 Taskbar utility provides access to folder tree navigation with direct launching of executable files (it means exe, bat files).
