@@ -30,6 +30,8 @@ Command line working directory is synchronized with Folder/Files view. Command u
 CMD Component has two panes. Upper pane displays CMD utility (command line window). Lower pane displays panel with text edit component that displays and logs content of the CMD window or is the viewer of the selected text files.
 Statusbar has two buttons - dw, up that show/hide upper or lower pane.
 
+- Taskbar button shows/hides left application panel (with taskbar or folder component).
+
 In browser mode, the navigation through internet sites is possible in tabbed enviroment. HTML page source viewer is appended, the component displays HTML source of the selected in web browser internet site. Additionaly, simple edition of the HTML page is possible by changing the source code.
 - Save as - saves page as bitmap file.
 - Source - displays source code of the HTML page.
