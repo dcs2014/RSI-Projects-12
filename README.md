@@ -9,7 +9,7 @@ Application GUI has the following structure
 - Folder/Files paths.
 - right panel.
 - left panel.
-- application stuststrip.
+- application statusbar.
 
 In command line mode there are two views - taskbar view and folders view. 
 
