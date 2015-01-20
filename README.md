@@ -23,6 +23,9 @@ Folder view presents directory structure in Folders/Files windows, full navigati
 Folder view has the histroy list that saves directories that were opened in the component. Folder component has two views
 - folder treeviewer.
 - folder content viewer.
+- list view with files history.
+
+After selecting option View -> two distinct panels are displayed, with folder structure and navigation through folders. 
 
 After starting CMD utility, it is possible to run commands. CMD window starts after selecting proper button on the toolstrip.
 Command line working directory is synchronized with Folder/Files view. Command utility starts command line window (left button on toolstrip). 
