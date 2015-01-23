@@ -1,6 +1,7 @@
 The administration projects that are designed to extend and simplify command line usage. The application runs in two main modes 
 - command line mode,
-- web browser mode.
+- web browser mode,
+- build mode, project rebuilds its sources (will be appended yet).
 
 Additionally, histrory of navigated pages and folders is maintained. 
 
