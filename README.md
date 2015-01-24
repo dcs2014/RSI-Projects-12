@@ -1,6 +1,7 @@
 The administration projects that are designed to extend and simplify command line usage. The application runs in two main modes 
 - command line mode,
-- web browser mode.
+- web browser mode,
+- build mode, project rebuilds its sources (will be appended yet).
 
 Additionally, histrory of navigated pages and folders is maintained. 
 
@@ -23,6 +24,9 @@ Folder view presents directory structure in Folders/Files windows, full navigati
 Folder view has the histroy list that saves directories that were opened in the component. Folder component has two views
 - folder treeviewer.
 - folder content viewer.
+- list view with files history.
+
+After selecting option View -> two distinct panels are displayed, with folder structure and navigation through folders. 
 
 After starting CMD utility, it is possible to run commands. CMD window starts after selecting proper button on the toolstrip.
 Command line working directory is synchronized with Folder/Files view. Command utility starts command line window (left button on toolstrip). 
