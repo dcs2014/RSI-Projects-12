@@ -48,4 +48,4 @@ In browser mode, the navigation through internet sites is possible in tabbed env
 Folder component displays history of navigation in the listbox view. All visited pages are remembered and saved in the list. Later, navigation through saved pages is possible.
 
 Webbrowser component has been implemented as an extension of codeproject component.
-Folder component is an extension of two codeproject components (treeview navigation and file path components).
+Folder component is an extension of two codeproject components (treeview navigation and file path components). The source code viewer for project files has been implemented on the base of codeproject scripting project.
