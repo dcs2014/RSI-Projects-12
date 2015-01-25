@@ -3,7 +3,7 @@ The administration projects that are designed to extend and simplify command lin
 - web browser mode,
 - build mode, project rebuilds its sources.
 
-Additionally, histrory of navigated pages and folders is maintained. 
+Additionally, history of navigated pages and folders is maintained. 
 
 Application GUI has the following structure
 - upper toolstrip.
