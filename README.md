@@ -5,9 +5,7 @@ The administration projects that are designed to extend and simplify command lin
 - source project files viewer,
 - xampp administration component for launching apache server in the applicataion - to be added.
 
-Additionally, history of navigated pages and folders is maintained. 
-
-Application GUI has the following structure
+Additionally, history of navigated pages and folders is maintained. Application GUI has the following structure
 - upper toolstrip.
 - Folder/Files paths.
 - right panel.
