@@ -1,4 +1,4 @@
-The administration projects that are designed to extend and simplify command line usage. The application runs in two main modes 
+The administration projects that are designed to extend and simplify command line usage. The application runs in the following main modes 
 - command line mode,
 - web browser mode,
 - build mode, project rebuilds its sources,
