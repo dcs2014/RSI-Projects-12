@@ -2,7 +2,7 @@ The administration projects that are designed to extend and simplify command lin
 - command line mode,
 - web browser mode,
 - build mode, project rebuilds its sources,
-- source project files viewer,
+- source project files viewer, real-time classes, methods, properties highlighter,
 - xampp administration component for launching apache server in the application - to be added.
 
 Additionally, history of navigated pages and folders is maintained. Application GUI has the following structure
